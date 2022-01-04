@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021890076224",
+    "firebase_url": "https://toko-alat-pancing-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "toko-alat-pancing",
+    "storage_bucket": "toko-alat-pancing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021890076224:android:82b115078d6f2cd70949a5",
+        "android_client_info": {
+          "package_name": "com.karkoon.fishingspots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021890076224-udn9s44jjbdgief99nful4itcnpdgk9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb4lIxGUz3IvgN9a_VpM_zNgKwsn7y0z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021890076224-udn9s44jjbdgief99nful4itcnpdgk9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
